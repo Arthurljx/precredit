@@ -18,7 +18,6 @@
 	<aop:aspectj-autoproxy proxy-target-class="true"/>	
 
 
-
 	<util:properties id="configProperties" location="classpath:config.properties"></util:properties>
 
 	<!-- 扫描组件剔除springmvc部分 -->
